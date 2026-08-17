@@ -1,0 +1,6 @@
+{
+  "name": "Life Sport Gym",
+  "description": "Premium masculine fitness and strength gym website in Bole, Addis Ababa, Ethiopia. Fully static and GitHub Pages ready.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
